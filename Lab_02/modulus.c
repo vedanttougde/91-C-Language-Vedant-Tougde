@@ -1,7 +1,3 @@
-/*
- * Lab 02: Remainder using the modulus operator
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 
 int main(void)
