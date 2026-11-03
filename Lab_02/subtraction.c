@@ -1,7 +1,3 @@
-/*
- * Lab 02: Subtraction of two integers
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 
 int main(void)
