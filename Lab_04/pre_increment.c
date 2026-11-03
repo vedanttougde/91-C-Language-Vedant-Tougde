@@ -1,10 +1,6 @@
-/*
- * Lab 04: Pre-increment operator
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 
-int main(void)
+int main()
 {
     int value = 7;
     int new_value;
