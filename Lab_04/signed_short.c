@@ -1,11 +1,7 @@
-/*
- * Lab 04: Signed short integer
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 #include <limits.h>
 
-int main(void)
+int main()
 {
     signed short int number = 32767;
 
