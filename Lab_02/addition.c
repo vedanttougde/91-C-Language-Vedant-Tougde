@@ -1,10 +1,6 @@
-/*
- * Lab 02: Addition of two integers
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 
-int main(void)
+int main()
 {
     int first, second;
     int total;
