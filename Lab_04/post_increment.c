@@ -1,10 +1,6 @@
-/*
- * Lab 04: Post-increment operator
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 
-int main(void)
+int main()
 {
     int value = 6;
     int old_value;
