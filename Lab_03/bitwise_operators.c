@@ -1,7 +1,3 @@
-/*
- * Lab 03: Bitwise operators
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 
 int main(void)
