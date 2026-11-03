@@ -1,10 +1,6 @@
-/*
- * Lab 05: Swapping two numbers using a temporary variable
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 
-int main(void)
+int main()
 {
     int first = 10;
     int second = 5;
