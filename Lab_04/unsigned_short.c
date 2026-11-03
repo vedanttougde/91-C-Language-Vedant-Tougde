@@ -1,11 +1,7 @@
-/*
- * Lab 04: Unsigned short integer
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 #include <limits.h>
 
-int main(void)
+int main()
 {
     unsigned short int number = 32769;
 
