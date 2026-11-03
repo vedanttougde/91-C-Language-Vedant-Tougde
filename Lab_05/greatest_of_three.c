@@ -1,10 +1,6 @@
-/*
- * Lab 05: Greatest among three numbers
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 
-int main(void)
+int main()
 {
     int first, second, third;
     int greatest;
