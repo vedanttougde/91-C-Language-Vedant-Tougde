@@ -1,0 +1,24 @@
+/*
+ * Lab 02: Subtraction of two integers
+ * Student: Vedant Tougde
+ */
+#include <stdio.h>
+
+int main(void)
+{
+    int first, second;
+    int difference;
+
+    printf("Vedant Tougde\n");
+    printf("Enter the first and second integers: ");
+
+    if (scanf("%d %d", &first, &second) != 2) {
+        printf("Invalid input.\n");
+        return 1;
+    }
+
+    difference = first - second;
+    printf("Difference = %d\n", difference);
+
+    return 0;
+}
