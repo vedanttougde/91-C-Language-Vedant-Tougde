@@ -1,10 +1,6 @@
-/*
- * Lab 05: Fibonacci series
- * Student: Vedant Tougde
- */
 #include <stdio.h>
 
-int main(void)
+int main()
 {
     int terms;
     int count;
